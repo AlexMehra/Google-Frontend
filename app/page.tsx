@@ -16,7 +16,7 @@ export default function Home() {
         <SearchBar />
         <div className="mt-8 space-x-4">
           <button className="bg-zinc-800  px-4 py-2 rounded hover:shadow">Google Search</button>
-          <button className="bg-zinc-800 px-4 py-2 rounded hover:shadow">I'm Feeling Lucky</button>
+          <button className="bg-zinc-800 px-4 py-2 rounded hover:shadow">I&apos;m Feeling Lucky</button>
         </div>
       </main>
 

@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { Dialog, DialogContent } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { ImageIcon, Upload } from 'lucide-react'
+import { ImageIcon } from 'lucide-react'
 
 export default function ImageSearch() {
   const [isOpen, setIsOpen] = useState(false)
